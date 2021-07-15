@@ -1,0 +1,14 @@
+.glass {
+    border-radius: 7px;
+    border:solid 2px #e0e0e0;
+    margin: 25px;
+    background: transparent;
+    backdrop-filter: blur(12px);
+    width: 900px;
+    filter: blur(6px);
+    height: 900px;
+}
+ body{
+     background: url('bg.jpeg');
+     background-size: 1920px 1080px;
+ }
