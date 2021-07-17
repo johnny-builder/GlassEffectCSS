@@ -10,7 +10,8 @@
     height: 900px;
 }
  body{
-     /*The background image just makes easier to see the glass effect working*/
+     /*The background image just makes easier to see the glass effect working
+     also it isn't too big for download it's just 68KB(69.632 bytes)*/
      background: url('bg.jpeg');
      background-size: 1920px 1080px;
  }
