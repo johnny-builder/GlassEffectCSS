@@ -10,6 +10,7 @@
     height: 900px;
 }
  body{
+     /*The background image just makes easier to see the glass effect working*/
      background: url('bg.jpeg');
      background-size: 1920px 1080px;
  }
